@@ -1,0 +1,26 @@
+
+footer {
+    display: flex;
+    background-color: brown;
+    padding: 30px;
+    justify-content: space-between;
+    div {
+        ul{
+            li{
+                padding: 10px;
+                a {
+
+                }
+            }
+        }
+    }
+    div{
+        display: flex;
+        align-content: center;
+        a{
+            img{
+
+            }
+        }
+    }
+}
