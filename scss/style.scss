@@ -3,8 +3,6 @@
 // Carpeta "Base" imports
 @import "base/valores" ;
 
-@import "base/fonts" ;
-
 @import "base/reset" ;
 
 
@@ -13,5 +11,15 @@
 @import "layout/header" ;
 
 @import "layout/footer" ;
+
+@import "layout/navbar" ;
+
+@import "layout/section1" ;
+
+// Carpeta "Utillities" imports
+
+@import "utilities/variables" ;
+
+@import "utilities/mixins" ;
 
 

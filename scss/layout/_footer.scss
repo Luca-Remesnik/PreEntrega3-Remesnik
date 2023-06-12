@@ -1,26 +1,24 @@
 
 footer {
     display: flex;
-    background-color: brown;
+    background-color: $color-principal;
     padding: 30px;
     justify-content: space-between;
     div {
         ul{
             li{
                 padding: 10px;
-                a {
-
-                }
+                list-style: none;
+              
             }
         }
     }
     div{
         display: flex;
         align-content: center;
-        a{
-            img{
-
-            }
-        }
+    
     }
 }
+
+
+        

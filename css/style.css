@@ -3,18 +3,37 @@
   padding: 0;
 }
 
+body {
+  background: linear-gradient(to top, #ff69b4, #40e0d0);
+}
+
 footer {
   display: flex;
-  background-color: brown;
+  background-color: #40e0d0;
   padding: 30px;
   justify-content: space-between;
 }
 footer div ul li {
   padding: 10px;
+  list-style: none;
 }
 footer div {
   display: flex;
   align-content: center;
+}
+
+.navbar-clase1 {
+  background-color: #ff69b4;
+}
+.navbar-clase1 div {
+  background-color: #fff5ee;
+}
+
+.section-1 .fuentes {
+  color: black;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: 300;
+  font-size: 1rem;
 }
 
 /*# sourceMappingURL=style.css.map */
