@@ -56,4 +56,9 @@ section div div img {
   box-shadow: 6px 6px 6px #18171c;
 }
 
+.subtitulos {
+  border-bottom: 1px solid #818184;
+  margin-bottom: 7px;
+}
+
 /*# sourceMappingURL=style.css.map */
