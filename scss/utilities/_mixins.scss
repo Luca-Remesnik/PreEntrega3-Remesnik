@@ -4,3 +4,8 @@
     font-size: 18px;
     font-style: italic;
 }
+
+@mixin subtitulos {
+    border-bottom: 1px solid $color-secundario;
+    margin-bottom: 7px;
+}

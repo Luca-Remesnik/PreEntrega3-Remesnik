@@ -1,0 +1,13 @@
+
+section{
+    div{
+        div{
+            h2 {
+                @include subtitulos;
+            }
+            img{
+                box-shadow: 6px 6px 6px $color-principal;
+            }
+        }
+    }
+}
