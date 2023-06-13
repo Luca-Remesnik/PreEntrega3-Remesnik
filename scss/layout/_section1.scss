@@ -5,9 +5,6 @@
     .fuentes {
         @include fuentes ;
     }
-    .images-shadow {
-        box-shadow: 6px 6px 6px $color-principal;
-    }
 
     div{
         h1{
@@ -20,4 +17,8 @@
             margin-bottom: 10px;
         }
     }
+}
+
+.images-shadow {
+    box-shadow: 6px 6px 6px $color-principal;
 }

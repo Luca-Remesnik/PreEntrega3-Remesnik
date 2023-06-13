@@ -2,12 +2,14 @@
 section{
     div{
         div{
-            h2 {
+            .subtitulos {
                 @include subtitulos;
             }
-            img{
-                box-shadow: 6px 6px 6px $color-principal;
-            }
+
         }
     }
+}
+
+.images-shadow {
+    box-shadow: 6px 6px 6px $color-principal;
 }

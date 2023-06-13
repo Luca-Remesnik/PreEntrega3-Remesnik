@@ -35,9 +35,6 @@ footer div {
   font-size: 18px;
   font-style: italic;
 }
-.section-1 .images-shadow {
-  box-shadow: 6px 6px 6px #18171c;
-}
 .section-1 div h1 {
   border-bottom: 1px solid #818184;
   margin-bottom: 7px;
@@ -48,11 +45,16 @@ footer div {
   margin-bottom: 10px;
 }
 
-section div div h2 {
+.images-shadow {
+  box-shadow: 6px 6px 6px #18171c;
+}
+
+section div div .subtitulos {
   border-bottom: 1px solid #818184;
   margin-bottom: 7px;
 }
-section div div img {
+
+.images-shadow {
   box-shadow: 6px 6px 6px #18171c;
 }
 
