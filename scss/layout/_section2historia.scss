@@ -13,3 +13,7 @@ section{
 .images-shadow {
     box-shadow: 6px 6px 6px $color-principal;
 }
+
+.fuentes {
+    @include fuentes ;
+}

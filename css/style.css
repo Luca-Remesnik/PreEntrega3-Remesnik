@@ -58,9 +58,23 @@ section div div .subtitulos {
   box-shadow: 6px 6px 6px #18171c;
 }
 
+.fuentes {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  font-style: italic;
+}
+
 .subtitulos {
   border-bottom: 1px solid #818184;
   margin-bottom: 7px;
+}
+
+.fuentes {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  font-style: italic;
 }
 
 /*# sourceMappingURL=style.css.map */
